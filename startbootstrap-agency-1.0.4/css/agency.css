@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+  /*  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive; */
     color: #ffffff;
 }
 
@@ -851,7 +851,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+  /*  background: #fed136; */
 }
 
 img::selection {
